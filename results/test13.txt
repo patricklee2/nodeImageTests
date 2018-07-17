@@ -1,0 +1,7 @@
+Hello World, test test! 
+0: /usr/local/bin/node-original
+1: /home/site/wwwroot/index.js
+2: 123
+3: 123 123
+4: abc
+5: abc abc
